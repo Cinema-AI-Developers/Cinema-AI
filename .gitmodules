@@ -1,0 +1,12 @@
+[submodule "Cinema-AI-Front"]
+	path = Cinema-AI-Front
+	url = https://github.com/Cinema-AI-Developers/Cinema-AI-Front.git
+[submodule "Cinema-AI-Back"]
+	path = Cinema-AI-Back
+	url = https://github.com/Cinema-AI-Developers/Cinema-AI-Back.git
+[submodule "Cinema-AI-Flutter"]
+	path = Cinema-AI-Flutter
+	url = https://github.com/Cinema-AI-Developers/Cinema-AI-Flutter
+[submodule "AI-showcase"]
+	path = AI-showcase
+	url = https://github.com/Cinema-AI-Developers/AI-showcase
